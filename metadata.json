@@ -1,0 +1,5 @@
+{
+  "name": "Trading Growth Calculator",
+  "description": "A web application to visualize the growth of an investment with a fixed percentage gain over a series of trades. It displays a detailed table of each trade's starting balance, profit, and ending balance, and allows users to add notes for each trade.",
+  "requestFramePermissions": []
+}
